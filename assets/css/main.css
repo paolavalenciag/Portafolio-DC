@@ -750,12 +750,7 @@ section {
     box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-body{
-  height: 100vh;
-  display: flex;
-  background: #4070f4;
-  aliign-items: center;
-  justify-content: center;
+
 }
 container{
   position: relative;
