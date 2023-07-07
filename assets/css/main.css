@@ -743,36 +743,6 @@ section {
 # Skills
 --------------------------------------------------------------*/
 
-.skills .progress {
-  position: relativa;
-  width: 0px;
-  height: 0px;
-  background-color: #9c9c9c; 
-  border-radius: 2em;
-  overflow: hidden;
-}
-
-.skills .progress .skill {
-    content "";
-    position: absolute;
-    width: 65%;
-    height: 100%;
-    background-color: var(--bar-color);
-    transform: translateX (-100%);
-}
-
-.skills .progress .skill .val {
-  float:center ;
-  font-style: normal;
-}
-
-.skills .progress-bar {
-  width: 500px;
-  height: 500px;
-  transition: 0.9s;
-  background-color: #06f766;
-}
-
 
 /*--------------------------------------------------------------
 # Clients Section
