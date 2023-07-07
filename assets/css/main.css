@@ -753,14 +753,14 @@ section {
   display: block;
   font-size: 14px;
   font-weight: 600;
-  color: #333;
+  color: #0a0a0a;
 }
 .skill-box .skill-bar{
   height: 8px;
   width: 100%;
   border-radius: 6px;
   margin-top: 6px;
-  background: rgb(0,0,0,0.1);
+  background: #00796B;
 }
 .skill-bar .skill-per{
   position: relative;
@@ -768,7 +768,7 @@ section {
   height: 100%;
   width: 90%;
   border-radius: 6px;
-  background: #cbddd1;
+  background: #00796B;
   animation: progress 0.4s  ease-in-out forwards;
   opacity: 0;
 }
@@ -819,10 +819,10 @@ section {
   top: -28px;
   font-size: 9px;
   font-weight: 500;
-  color: #fff;
+  color: #cbddd1;
   padding: 2px 6px;
   border-radius: 3px;
-  background:  #cbddd1;
+  background:  #00796B;
   z-index: 1;
 }
 .tooltip::before{
@@ -833,7 +833,7 @@ section {
   height: 10px;
   width: 10px;
   z-index: -1;
-  background-color:  #cbddd1;
+  background-color:  #00796B;
   transform: translateX(-50%) rotate(45deg);
 }
 
