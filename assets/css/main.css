@@ -768,7 +768,7 @@ section {
   height: 100%;
   width: 90%;
   border-radius: 6px;
-  background: #CBDDD1;
+  background: #cbddd1;
   animation: progress 0.4s  ease-in-out forwards;
   opacity: 0;
 }
@@ -822,7 +822,7 @@ section {
   color: #fff;
   padding: 2px 6px;
   border-radius: 3px;
-  background: ##CBDDD1;
+  background:  #cbddd1;
   z-index: 1;
 }
 .tooltip::before{
@@ -833,7 +833,7 @@ section {
   height: 10px;
   width: 10px;
   z-index: -1;
-  background-color: ##CBDDD1;
+  background-color:  #cbddd1;
   transform: translateX(-50%) rotate(45deg);
 }
 
