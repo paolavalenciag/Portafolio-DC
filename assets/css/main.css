@@ -753,7 +753,7 @@ section {
   display: block;
   font-size: 14px;
   font-weight: 600;
-  color: #0a0a0a;
+  color: rgb(0,0,0,0.1);
 }
 .skill-box .skill-bar{
   height: 8px;
