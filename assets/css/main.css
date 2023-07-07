@@ -745,15 +745,6 @@ section {
 /* ===== Gooogle Font Import - Poppins ===== */
 @import url ('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
 
-container{
-  position: relative;
-  max-width: 500px;
-  width: 100%;
-  background: #fff;
-  margin: 0 15 px;
-  padding: 10px 20px;
-  border-radius: 7px;
-}
 .container .skill-box{
   width: 100%;
   margin: 25px 0;
